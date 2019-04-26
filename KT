@@ -1,0 +1,3 @@
+KT.onInit(() => {
+        console.log("vasya")
+    });
